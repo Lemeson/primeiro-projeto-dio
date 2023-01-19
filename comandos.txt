@@ -1,0 +1,115 @@
+    1  la
+    2  ls
+    3  mkdir livro-receitas
+    4  ls
+    5  git init
+    6  ls
+    7  cd livro-receitas
+    8  git-init
+    9  git init
+   10  ls -a
+   11  ls
+   12  ls -a
+   13  cls
+   14  clear
+   15  cd .get/
+   16  cd .git/
+   17  ls
+   18  ls -a
+   19  cd ..
+   20  git cofig --global user.email "lemeson93@gmail.com"
+   21  git config --global user.email "lemeson93@gmail.com"
+   22  git config --global user.name lemeson
+   23  git add *
+   24  git commit -m "commit inicial"
+   25  ssh-keygen -t ed25519 -C lemeson93@gmail.com
+   26  cd /c/Users/Lenovo/.ssh/
+   27  ls
+   28  cat id_ed25519.pub
+   29  clear
+   30  pwd
+   31  ls
+   32  eval $(ssh-agent -s)
+   33  ssh-add id_ed25519
+   34  cd c
+   35  cd /c
+   36  cd workspace
+   37  ls
+   38  cd E
+   39  cd /e
+   40  ls
+   41  ls -a
+   42  cd workspace
+   43  cd /d
+   44  ls
+   45  cd workspace
+   46  git clone git@github.com:Lemeson/conxao-banco-de-dados.git
+   47  ls
+   48  ls
+   49  git status
+   50  mkdir receitas
+   51  mv strogonoff.md.txt ./receitas/
+   52  mv estrogonoff.md.txt ./receitas/
+   53  ls
+   54  cd receitas
+   55  ls
+   56  cd ..
+   57  clear
+   58  ls
+   59  git status
+   60  git add estrogonoff.md.txt receitas/
+   61  git status
+   62  git commit -m "cria pasta receitas, move arquivo para receitas"
+   63  git status
+   64  ls
+   65  echo > README.md
+   66  ls
+   67  git status
+   68  git status
+   69  git add *
+   70  git status
+   71  git commit -m "adiciona index"
+   72  ssh-keygen -t ed25519 -C lemeson93@gmail.com
+   73  ssh-keygen -t ed25519 -C lemeson93@gmail.com
+   74  cd /c/Users/Lenovo/.ssh/
+   75  ls
+   76  cat id_ed25519.pub
+   77  eval $(ssh-agent -s)
+   78  ssh-add id_ed25519
+   79  ssh-add id_ed25519
+   80  ls
+   81  cd d/
+   82  cd d
+   83  pwd
+   84  cd /d/
+   85  ls
+   86  cd workspace
+   87  ls
+   88  cd livro-receitas
+   89  ls
+   90  git status
+   91  git status
+   92  git add *
+   93  celar
+   94  clear
+   95  git status
+   96  git commit -m "Adiciona receita pave"
+   97  clear
+   98  git push origin master
+   99  dir
+  100  ls
+  101  history
+  102  ls
+  103  cd..
+  104  cd ..
+  105  ls
+  106  pwd
+  107  mkdir primeiro-projeto-dio
+  108  cd dio
+  109  cd primeiro-projeto-dio
+  110  git init
+  111  ls
+  112  ls -a
+  113  echo > README.md
+  114  ls
+  115  history > comandos.txt
